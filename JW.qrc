@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>wechat.png</file>
+    <file>main.png</file>
+    <file>login.png</file>
+    <file>close.png</file>
+    <file>back.png</file>
+    <file>search.png</file>
+    <file>next.png</file>
+    <file>search2.png</file>
+    <file>add.png</file>
+    <file>main.png</file>
+    <file>concel.png</file>
+    <file>del.png</file>
+    <file>open.png</file>
+    <file>receive.png</file>
+    <file>send.png</file>
+  </qresource>
+</RCC>
